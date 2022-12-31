@@ -1,5 +1,14 @@
 # Pylar AI creative ML License
 
+## Version 0.0.3
+
+```
+Version: 0.0.3
+Validity Date: 2023-01-01
+Published Date: 2022-12-31
+Signed By [Pylar Org](https://pylar.org)
+```
+
 ```
 Permitted Uses          Prohibited Uses
 -------------------     -------------------
@@ -17,6 +26,7 @@ official source
 ```
 
 - [Pylar AI creative ML License](#pylar-ai-creative-ml-license)
+  - [Version 0.0.3](#version-003)
   - [Description](#description)
   - [Summary](#summary)
     - [Scope of the License](#scope-of-the-license)
@@ -450,7 +460,7 @@ Both copyright and patent grants apply to the Pylar Documents. The Pylar Documen
 
 - Github Author: [https://github.com/miguelgargallo/Pylar-AI-creative-ML-License](https://github.com/miguelgargallo/Pylar-AI-creative-ML-License)
 - Huggingface Author: [https://huggingface.co/spaces/superdatas/LICENSE/](https://huggingface.co/spaces/superdatas/LICENSE/)
-- SuperDatas Official Repo: [https://github.com/superdatas/License/blob/main/versions/Pylar%20AI%20creative%20ML%20v0.0.2.md](https://github.com/superdatas/License/blob/main/versions/Pylar%20AI%20creative%20ML%20v0.0.2.md)
+- SuperDatas Official Repo: [https://github.com/superdatas/License](https://github.com/superdatas/License)
 
 ## Section X END OF TERMS AND CONDITIONS
 
