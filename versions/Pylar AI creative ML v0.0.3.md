@@ -5,7 +5,7 @@
 Version: 0.0.3
 Validity Date: 2023-01-01
 Published Date: 2022-12-31
-Signed By [Pylar Org](https://pylar.org)
+Signed By Pylar.org
 ```
 
 ```
