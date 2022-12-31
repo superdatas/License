@@ -177,3 +177,4 @@ This License governs the use of Pylar Documents and is informed by Pylar Documen
 
 - Github Author: [https://github.com/miguelgargallo/Pylar-AI-creative-ML-License](https://github.com/miguelgargallo/Pylar-AI-creative-ML-License)
 - Huggingface Author: [https://huggingface.co/spaces/superdatas/LICENSE/](https://huggingface.co/spaces/superdatas/LICENSE/)
+- SuperDatas Official Repo: [https://github.com/superdatas/License/blob/main/versions/Pylar%20AI%20creative%20ML%20v0.0.2.md](https://github.com/superdatas/License/blob/main/versions/Pylar%20AI%20creative%20ML%20v0.0.2.md)
