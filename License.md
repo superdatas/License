@@ -31,7 +31,6 @@ official source
   - [Section I: PREAMBLE](#section-i-preamble)
   - [Section II: OVERVIEW](#section-ii-overview)
   - [Section III: PERMISSIONS AND LIMITATIONS](#section-iii-permissions-and-limitations)
-  - [NOW THEREFORE, You and Licensor agree as follows:](#now-therefore-you-and-licensor-agree-as-follows)
   - [Section VI: DEFINITIONS](#section-vi-definitions)
     - [Mindmap 1: Pylar Documents and Usage](#mindmap-1-pylar-documents-and-usage)
     - [Mindmap 2: Owners and License Versions](#mindmap-2-owners-and-license-versions)
@@ -39,7 +38,6 @@ official source
     - [Mindmap 4: Dataset](#mindmap-4-dataset)
     - [Mindmap 5: Stakeholders](#mindmap-5-stakeholders)
   - [Section V: INTELLECTUAL PROPERTY RIGHTS](#section-v-intellectual-property-rights)
-        - [Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.](#both-copyright-and-patent-grants-apply-to-the-pylar-documents-the-pylar-documents-are-subject-to-additional-terms-as-described-in-section-iii)
   - [Section VI: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-vi-conditions-of-usage-distribution-and-redistribution)
   - [Section VII: OTHER PROVISIONS](#section-vii-other-provisions)
   - [Section VIII: LICENSE VERSIONS](#section-viii-license-versions)
@@ -190,7 +188,7 @@ The following limitations apply to the use of Pylar Documents:
     Modification to endorse: Pylar Documents may not be modified for the purpose of endorsement.
     Modification for pull requests outside of Official Sources: Prohibited. This means that you are not allowed to modify the Pylar Documents or any Derivatives of the Pylar Documents for the purpose of making a pull request outside of the designated Official Sources, as defined in the License. This is in order to ensure that all modifications to the Pylar Documents are properly documented and can be easily tracked and traced by the Owners.
 
-## NOW THEREFORE, You and Licensor agree as follows:
+NOW THEREFORE, You and Licensor agree as follows:
 
 ## Section VI: DEFINITIONS
 
@@ -385,7 +383,7 @@ A mindmap illustrating the process of creating and using the Pylar Documents, in
 
 ## Section V: INTELLECTUAL PROPERTY RIGHTS
 
-##### Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
+Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
 
 1. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright License to reproduce, prepare, publicly display, publicly perform, subLicense, and distribute the Pylar Documents.
 
