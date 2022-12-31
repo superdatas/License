@@ -236,7 +236,7 @@ Derivatives of Software, Project  Derivatives of Dataset    Derivatives of Model
 - "Third Parties" means individuals or legal entities that are not under common control with Licensor or You.
 - "Contribution" means any work of authorship, including the original version of the Model and any modifications or additions to the Pylar Documents thereof, that is intentionally submitted to Licensor for inclusion in the Model by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Model, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 - "Contributor" means Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Model.
-- "License versions" means This License is subject to change at anytime. See section Section V: License VERSIONS to know more. (paragraph 13-24).
+- "License versions" means This License is subject to change at anytime. See section Section VIII: License VERSIONS to know more. (paragraph 13-24).
 
 ### Mindmap 1: Pylar Documents and Usage
 
